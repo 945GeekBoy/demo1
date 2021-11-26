@@ -142,6 +142,12 @@ paths:
                   lastName: Fellow
                   email: bob.fellow@gmail.com
                   dateOfBirth: '1996-08-24'
+              example-1:
+                value:
+                  firstName: string
+                  lastName: string
+                  email: string
+                  dateOfBirth: '2019-08-24'
         description: Post the necessary fields for the API to create a new user.
       description: Create a new user.
 components:
